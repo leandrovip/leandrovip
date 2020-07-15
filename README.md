@@ -1,5 +1,4 @@
 # Leandro Ferreira ✌️
-[![Linkedin Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://fb.com/leandroferreiravip)](https://fb.com/leandroferreiravip)
 [![Linkedin Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/leandrovip29)](https://www.twitter.com/leandrovip29)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroferreiravip/)](https://www.linkedin.com/in/leandroferreiravip/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/5517991765035?text=Ola!)](https://wa.me/5517991765035?text=Ola!)
@@ -33,16 +32,3 @@ Hi! My name is **Leandro**, i'm partner and developer at [VIP Soluções](https:
 
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb)
-![Access](https://img.shields.io/badge/-Access-A4373A?style=flat-square&logo=microsoft-access)
-
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-E5A00D?style=flat-square&logo=linux&logoColor=black&fontColor=black)
-![StackOverFlow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello)
-
-
-
-
-
-
