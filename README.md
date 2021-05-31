@@ -1,19 +1,18 @@
-# Leandro Ferreira ✌️
-[![Linkedin Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://fb.com/leandroferreiravip)](https://fb.com/leandroferreiravip)
-[![Linkedin Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/leandrovip29)](https://www.twitter.com/leandrovip29)
+# Leandro Ferreira
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroferreiravip/)](https://www.linkedin.com/in/leandroferreiravip/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/leandrovip29)](https://www.twitter.com/leandrovip29)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://wa.me/5517991765035?text=Ola!)](https://wa.me/5517991765035?text=Ola!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/leandrovip29)](https://t.me/leandrovip29)
-[![Telegram Badge](https://img.shields.io/badge/-Skype-0088CC?style=flat-square&logo=skype&logoColor=white&link=leandro.vipsolucoes)](leandro.vipsolucoes)
 
 <br />
 
-Olá! Meu nome é **Leandro**, sou desenvolvedor, tenho mais de 10 anos de experiência e já resolvi diversos problemas! 
+Olá! Meu nome é **Leandro**, sou desenvolvedor e tenho mais de 10 anos de experiência. Já resolvi diversos problemas com diversas tecnologias, sou parte da solução e não do problema. 🚀
 
 - 💼 Sócio e desenvolvedor na [VIP Soluções](https://vipsolucoes.com)
 - 👔 Experiência em Automação Comercial
 - 💜 Desenvolvedor .Net
 - 📚 Técnico em Desenvolvimento de Sistemas
+- 💡  Em constante evolução
 
 ---
 
@@ -27,6 +26,7 @@ Olá! Meu nome é **Leandro**, sou desenvolvedor, tenho mais de 10 anos de exper
 
   ![DotNet](https://img.shields.io/badge/-.Net-5C2D91?style=flat-square&logo=.net)
   ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=c-sharp)
+  ![Xamarin](https://img.shields.io/badge/-Xamarin-003545?style=flat-square&logo=xamarin)
   ![VisualStudio](http://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=ffffff)
   ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
   ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
