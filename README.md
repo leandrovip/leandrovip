@@ -42,4 +42,4 @@ Olá! Meu nome é **Leandro**, sou desenvolvedor e tenho mais de 10 anos de expe
 
 <br>
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=leandrovip&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/leandrovip/leandrovip)
+[![Github Status](https://github-readme-stats.vercel.app/api?username=leandrovip&include_all_commits=true&hide=contribs&show_icons=true&theme=dracula)](https://github.com/leandrovip/leandrovip)
