@@ -6,7 +6,7 @@
 
 <br />
 
-Olá! Meu nome é **Leandro**, sou desenvolvedor e tenho mais de 10 anos de experiência. Já resolvi diversos problemas com diversas tecnologias, sou parte da solução e não do problema. 🚀
+Olá! Meu nome é **Leandro**, sou desenvolvedor e tenho mais de 16 anos de experiência. Já resolvi diversos problemas com diversas tecnologias, sou parte da solução e não do problema. 🚀
 
 - 💼 Sócio e desenvolvedor na [VIP Soluções](https://vipsolucoes.com)
 - 👔 Experiência em Automação Comercial
